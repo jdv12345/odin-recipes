@@ -1,0 +1,26 @@
+h1 {
+    font-size: 75px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: left;
+    color: blueviolet;
+}
+
+.brownie {
+    color:red;
+    background-color: black;
+}
+
+.pasta {
+    color: aqua;
+    background-color: black;
+}
+
+.cookie {
+    color: greenyellow;
+    background-color: black;
+}
